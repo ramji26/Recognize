@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Recognize</string>
 
-    <string name="subscription_key">6fbc0af93b4541058f657fc83497daed</string>
+    <string name="subscription_key">Enter Your Subscription Key.</string>
     <string name="progress_dialog_title">Please wait</string>
 
 
@@ -42,5 +42,8 @@
     <string name="user_provided_person_group_description_data">User data</string>
     <string name="select_image">Select\nImage</string>
     <string name="select_group">Select Any Group</string>
+    <string name="desc">This Application is Powered \n by \n FACE API \n part of \n Project OXFORD \n by Microsoft.</string>
+    <string name="url">www.projectoxford.ai/face</string>
+    <string name="title_activity_about">About Activity</string>
 
 </resources>

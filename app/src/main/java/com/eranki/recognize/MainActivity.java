@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
 
     public void identification(View view) {
         Intent intent = new Intent(this, IdentificationActivity.class);
-        Log.v(Tag,"Starting Identification Intent");
+        Log.v(Tag, "Starting Identification Intent");
         startActivity(intent);
     }
 
@@ -35,6 +35,11 @@ public class MainActivity extends Activity {
 
         Intent intent = new Intent(this, PersonGroupListActivity.class);
         Log.v(Tag, "Stating Manage Groups Activity");
+        startActivity(intent);
+    }
+
+    public void abtclicked(View view){
+        Intent intent = new Intent(this, AboutActivity.class);
         startActivity(intent);
     }
 }
