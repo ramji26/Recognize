@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Recognize</string>
+
+    <string name="subscription_key">6fbc0af93b4541058f657fc83497daed</string>
+    <string name="progress_dialog_title">Please wait</string>
+
+
+    <string name="identification">Identification</string>
+    <string name="detection">Detection</string>
+    <string name="identification_description">Identify the person \n from a face.</string>
+    <string name="manage_person_groups">Manage Person \n Groups</string>
+    <string name="person">Person</string>
+    <string name="person_name">Person name:</string>
+    <string name="type_in_person_name_tip">Name (within 30 characters)</string>
+    <string name="person_groups">Person Groups</string>
+    <string name="target_image">Target image</string>
+    <string name="faces">Faces in image</string>
+    <string name="select_face_tip">Select this person\'s faces (if exist) by click on the checkbox.</string>
+    <string name="done_and_save">Save</string>
+    <string name="no_person_group_selected_for_identification_warning">No person group selected</string>
+    <string name="face_cannot_be_identified">Unknown person</string>
+    <string name="add_face_to_person">Add Faces To Person</string>
+    <string name="select_an_image">Select an Image</string>
+    <string name="identify">Identify</string>
+    <string name="person_group">Person Group</string>
+    <string name="person_group_list">Person Group List</string>
+    <string name="add_face">Add Face</string>
+    <string name="person_tip">- Long press on a face to delete.</string>
+    <string name="person_group_name">Person group name:</string>
+    <string name="type_in_person_group_name_tip">Name (within 30 characters)</string>
+    <string name="add_person">Add Person</string>
+    <string name="add_person_group">Add Person Group</string>
+    <string name="person_group_tip">- Tap on a person to edit.\n- Long press to delete.</string>
+    <string name="person_group_list_tip">- Tap on a group to edit.\n- Long tap to delete.</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="delete">Delete</string>
+    <string name="select_image_in_album">From Gallery</string>
+    <string name="user_provided_person_name">Person name</string>
+    <string name="user_provided_description_data">User data</string>
+    <string name="person_name_empty_warning_message">Person name cannot be empty</string>
+    <string name="user_provided_person_group_name">Person group name</string>
+    <string name="user_provided_person_group_description_data">User data</string>
+    <string name="select_image">Select\nImage</string>
+    <string name="select_group">Select Any Group</string>
+
+</resources>
